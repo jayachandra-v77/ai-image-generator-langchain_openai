@@ -1,4 +1,4 @@
-# 🎨 AI Image Generator using OpenAI
+## 🎨 AI Image Generator using OpenAI
 
 A simple Python-based AI Image Generator built using the OpenAI Images API.
 This application generates high-quality images from text prompts and saves them locally.
